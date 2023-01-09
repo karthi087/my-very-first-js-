@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+    background-image: url(1-nature-wallpaper-grass-hd.jpg);
+
+}
+h1,h2 {
+
+    color: darkgreen;
+}
+
+span {
+    color: black;
+}
+
+.b1 {
+    width: 5em;
+    height: 2.5em;
+    color: gray;
+    background-color: lightgoldenrodyellow;
+}
